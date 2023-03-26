@@ -153,6 +153,7 @@ goto loop;}
 		printf("%s",x[20]);
 		u:
 			return 0;}
+//hai
 	
             
         
